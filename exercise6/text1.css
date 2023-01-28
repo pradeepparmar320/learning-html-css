@@ -1,0 +1,43 @@
+p {
+  font-family:roboto;
+  margin-top:0px;
+  margin-bottom:0px;
+}
+.video-title {
+font-size:18px;
+font-weight:bold;
+width:280px;
+line-height:20px;
+margin-bottom:5px;
+}
+.video-stats {
+color:grey;
+margin-top:0px;
+font-size:12px;
+margin-bottom:15px;
+}
+.author-name {
+color:grey;
+margin-bottom:18px;
+font-size:14px;
+}
+.video-description {
+color:grey;
+width:280px;
+font-size:14px;
+line-height:22px;
+margin-bottom:100px;
+
+}
+.apple-link {
+color:white;
+text-align:center;
+background-color:rgb(227,65,64);
+padding-top:20px;
+padding-bottom:20px;
+ 
+}
+.shop-link:hover {
+text-decoration:underline;
+cursor:pointer;
+}
