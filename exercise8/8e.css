@@ -1,0 +1,39 @@
+.request {
+  font-family:arial;
+  font-size:40px;
+  margin-bottom:25px;
+}
+input {
+  font-family:arial;
+  width:350px;
+  display:block;
+  margin-bottom:8px;
+  border:none;
+  background-color:rgb(246, 245, 245);
+  padding-top:15px;
+  padding-bottom:15px;
+  padding-left:15px;
+  font-size:15px;
+  border-radius:2px;
+}
+.request-button {
+  border:none;
+  background-color:black;
+  color:white;
+  width:130px;
+  margin-top:30px;
+  padding-top:15px;
+  padding-bottom:15px;
+  font-size:15px;
+}
+.schedule-button {
+  border:none;
+  background-color:rgb(246, 245, 245);
+  width:150px;
+  margin-left:20px;
+  padding-top:15px;
+  padding-bottom:15px;
+  padding-left:15px;
+  padding-right:15px;
+  font-size:15px;
+}

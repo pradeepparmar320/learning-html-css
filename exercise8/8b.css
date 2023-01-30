@@ -1,0 +1,13 @@
+.quick-survey {
+  width:200px;
+  display:inline-block;
+  vertical-align:middle;
+}
+.yes-button {
+  margin-right:2px;
+  
+}
+.no-button {
+  margin-left:2px;
+  
+}
