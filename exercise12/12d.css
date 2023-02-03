@@ -1,0 +1,10 @@
+.flexbox {
+  display:flex;
+  flex-direction:row;
+  height:80px;
+  border:1.5px;
+  border-style:solid;
+  border-color:grey;
+  justify-content:space-between;
+  align-items:center;
+}
