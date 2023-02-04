@@ -1,0 +1,73 @@
+p {
+  margin-top:0px;
+  margin-bottom:0px;
+  font-family:Roboto,arial;
+}
+
+.container {
+  width:500px;
+  height:350px;
+  border:1px;
+  border:none;
+  box-shadow:0px 0px 5px rgba(0,0,0,0.25);
+  
+}
+
+.inbox {
+  font-family:arial;
+  width:200px;
+  font-size:14px;
+  color:grey;
+  padding-left:12px;
+  margin-bottom:12px;
+  padding-top:10px;
+}
+
+.flexbox {
+  display:flex;
+  align-items:center;
+  padding-left:12px;
+  margin-top:20px;
+  margin-bottom:20px;
+
+}
+
+.info {
+  width:400px;
+}
+
+
+.profile-picture {
+   width:60px;
+   height:60px;
+   margin-right:10px;
+   border-radius:30px;
+   
+}
+
+.date-row {
+  display:flex;
+  justify-content:space-between;
+  margin-right:15px;
+}
+
+.date {
+  color:grey;
+  font-size:14px;
+}
+
+.promotion {
+  font-weight:bold;
+  font-size:18px;
+  margin-bottom:5px;
+}
+
+.sale {
+  font-weight:bold;
+  font-size:16px;
+}
+
+.hey-there {
+  color:grey;
+  margin-top:6px;
+}
