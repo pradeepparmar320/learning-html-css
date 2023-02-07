@@ -1,0 +1,79 @@
+.tweet {
+  width:450px;
+  height:200px;
+  display:flex;
+  padding-top:10px;
+  padding-right:10px;
+  
+
+}
+
+.profile-picture-column {
+  width:50px;
+  margin-right:10px;
+  margin-left:10px;
+ 
+}
+
+.profile-picture {
+  width:50px;
+  height:45px;
+  object-fit:cover;
+  border-radius:25px;
+}
+
+.tweet-header {
+  display:flex;
+  margin-bottom:5px;
+}
+
+.tweet-author {
+  font-family:Roboto,arial;
+  font-weight:bold;
+  margin-right:5px;
+}
+
+.tweet-handle {
+  font-family:Roboto,arial;
+  color:grey;
+}
+
+.tweet-content {
+  font-family:roboto,arial;
+  font-weight:600px;
+  margin-bottom:8px;
+}
+
+.video-preview {
+  width:340px;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgb(200,200,200);
+  border-radius:18px;
+  height:100px;
+  display:flex;
+  overflow:hidden;
+}
+
+.video-thumbnail {
+  width:100px;
+  background-color:rgb(200,200,200);
+  margin-right:10px;
+}
+
+.video-info {
+  padding-top:15px;
+}
+
+.video-website {
+  color:grey;
+  font-size:18px;
+  margin-bottom:5px;
+}
+
+.video-title {
+  font-family:roboto,arial;
+  width:210px;
+  font-weight:500;
+  font-size:16px;
+}
