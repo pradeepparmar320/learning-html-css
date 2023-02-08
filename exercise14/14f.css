@@ -1,0 +1,58 @@
+div {
+  font-family:arial;
+}
+
+.sidebar-1 {
+  width:100px;
+  background-color:rgb(46, 46, 46);
+  position:fixed;
+  top:0;
+  bottom:0;
+  left:0;
+  padding-top:16px;
+  padding-left:12px;
+
+}
+
+.picture {
+  width:80px;
+  height:77px;
+  border-radius:39px;
+  object-fit:cover;
+  margin-bottom:7px;
+}
+
+.sidebar-2 {
+  width:250px;
+  background-color:rgb(62, 60, 60);
+  position:fixed;
+  top:0;
+  left:112px;
+  bottom:0;
+  padding-top:16px;
+  padding-left:20px;
+  padding-right:30px;
+
+}
+
+.header {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  margin-bottom:15px;
+}
+
+.name {
+  color:white;
+  font-weight:bold;
+}
+
+.create-new {
+  color:rgb(171, 166, 166);
+  font-size:30px;
+}
+
+.hashtags {
+  color:rgb(171, 166, 166);
+  margin-bottom:15px;
+}
