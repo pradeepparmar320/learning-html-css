@@ -14,6 +14,20 @@
   margin-bottom:10px;
 }
 
+@media (min-width:1000px) {
+  .video-title {
+    font-size:16px;
+    line-height:24px;
+  }
+}
+
+@media (min-width:1000px) {
+  .video-author,
+  .video-stats {
+    font-size:14px;
+  }
+}
+
 .video-link {
   color:black;
 }
@@ -100,7 +114,7 @@
   row-gap:40px;
 }
 
-@media (max-width:750px) {
+@media (max-width:750.9px) {
   .video-grid {
     grid-template-columns:1fr 1fr;
   }
